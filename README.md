@@ -7,3 +7,5 @@ I am using my personal laptop and not a remote server accessible via the Interne
 # npm install -g smee-client
 # smee -u https://smee.io/k4vlleYXy80iNtR4 (or smee -u https://smee.io/k4vlleYXy80iNtR4 --path /github-webhook/ --port 8080)
 ```
+# Notes on Jenkins
+You can see the local workspaces in folder C:\ProgramData\Jenkins\.jenkins\workspace
