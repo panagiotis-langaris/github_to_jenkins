@@ -12,4 +12,4 @@ SMEE is a webhook payload delivery service. It receives payloads then sends them
 # smee -u https://smee.io/k4vlleYXy80iNtR4 (or smee -u https://smee.io/k4vlleYXy80iNtR4 --path /github-webhook/ --port 8080)
 ```
 # Notes on Jenkins
-You can see the local workspaces in folder C:\ProgramData\Jenkins'\.jenkins\workspace
+You can see the local workspaces in folder C:\ProgramData\Jenkins\'.jenkins\workspace
