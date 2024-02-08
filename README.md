@@ -13,3 +13,7 @@ SMEE is a webhook payload delivery service. It receives payloads then sends them
 ```
 # Notes on Jenkins
 You can see the local workspaces in folder `C:\ProgramData\Jenkins\.jenkins\workspace`
+
+## Sources
+https://dev.to/cwprogram/github-webhooks-to-local-jenkins-instance-with-smee-ca3
+https://dilpreetj.medium.com/jenkins-github-integration-with-selenium-python-fe5f677fa4c3
