@@ -21,3 +21,5 @@ https://dilpreetj.medium.com/jenkins-github-integration-with-selenium-python-fe5
 
 ## To run NSO on Windows
 https://www.youtube.com/watch?v=3-7gb_6RD9k
+
+https://software.cisco.com/download/home/286331591/type/286283941/release/6.2
