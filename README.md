@@ -18,3 +18,6 @@ You can see the local workspaces in folder `C:\ProgramData\Jenkins\.jenkins\work
 https://dev.to/cwprogram/github-webhooks-to-local-jenkins-instance-with-smee-ca3
 
 https://dilpreetj.medium.com/jenkins-github-integration-with-selenium-python-fe5f677fa4c3
+
+## To run NSO on Windows
+https://www.youtube.com/watch?v=3-7gb_6RD9k
